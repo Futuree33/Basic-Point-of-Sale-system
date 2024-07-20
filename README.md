@@ -1,4 +1,4 @@
-# Basic-Point-of-Sale-system
+# Basic Point of Sale system
 Really basic point of sale system that logs all orders, calculates total order price and change owed to customer. 
 Products have categories so you can easily categorise every product and create new ones. 
 
