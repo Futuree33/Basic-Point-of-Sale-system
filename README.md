@@ -1,5 +1,5 @@
 # Basic Point of Sale System
-Really basic point of sale system that logs all orders, calculates total order price and change owed to customer. 
+Basic point of sale system that logs all orders, calculates total order price and change owed to customer. 
 Products have categories so you can easily categorise every product and create new ones. 
 
 built using laravel, inertia js, react, framer motion and tailwind css
