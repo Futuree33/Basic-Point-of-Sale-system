@@ -7,6 +7,8 @@ built using laravel, inertia js, react, framer motion and tailwind css
 
 # Running this project
 ```
+npm install
+composer install 
 npm run dev
 php artisan serve
 ```
